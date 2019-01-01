@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://insightsrv01.ibfs.de:9002" />
+          <option name="name" value="insight" />
+          <option name="login" value="gisnb" />
+          <password>dfcddfc3dfd9dfc4dfc8</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

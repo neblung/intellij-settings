@@ -1,0 +1,10 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="rnn@userDefined" key=".rnn" provider="builtin.java" language-level="7" topmost="false">
+      <conditions>
+        <condition id="notPrimitive" />
+      </conditions>
+      <template name="fakeKey" value="java.util.Objects.requireNonNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

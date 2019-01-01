@@ -1,0 +1,19 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.gis-systemhaus.de">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df9bdf92dffadfcbdfd9dfd9dfdddf9adfd8dfce</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.4.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>gisnb</username>
+    </JIRA>
+  </component>
+</application>

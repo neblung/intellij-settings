@@ -1,0 +1,13 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="15" />
+    <option name="MAX_LOOKUP_WIDTH2" value="718" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>

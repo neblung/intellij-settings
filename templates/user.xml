@@ -1,0 +1,18 @@
+<templateSet group="user">
+  <template name="rNN" value="Objects.requireNonNull($SELECTION$)" description="requireNonNull" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="notYet" value="// TODO&#10;throw new UnsupportedOperationException(&quot;not yet implemented&quot;);" description="throw not yet implemented exception" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final java.util.logging.Logger LOGGER = java.util.logging.Logger.getLogger($CLASS_NAME$.class.getName());&#10;" description="define java.util.logging.Logger" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
