@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\insight-indexer\src\main\java\gis\insight\indexer\util\HttpFactoryForES.java [insight-indexer_main]'" />
+    <option name="defaultScopeName" value="File '...\insight-indexer\src\main\java\gis\insight\indexer\util\HttpFactoryForES.java [insight-indexer_main]'" />
+    <option name="SEARCH_SCOPE" value="File '...\insight-indexer\src\main\java\gis\insight\indexer\util\HttpFactoryForES.java [insight-indexer_main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
