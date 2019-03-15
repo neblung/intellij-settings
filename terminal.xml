@@ -1,5 +1,8 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="D:\gisnb\x.bat" />
+    <envs>
+      <env key="WORKSPACE" value="D:\IdeaProjects\insight" />
+    </envs>
+    <option name="myShellPath" value="D:\IdeaProjects\insight\.idea\my-cmd.bat" />
   </component>
 </application>
