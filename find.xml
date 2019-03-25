@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '...\insight-server [insight-server]'" />
+    <option name="defaultScopeName" value="Directory '...\insight-server [insight-server]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\insight-server [insight-server]'" />
     <option name="FILE_MASK" value="build.gradle*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
