@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="ICP-796 Infor-Adapter deploy-fehler im Wildfly" />
+    <option name="defaultScopeName" value="ICP-796 Infor-Adapter deploy-fehler im Wildfly" />
+    <option name="SEARCH_SCOPE" value="ICP-796 Infor-Adapter deploy-fehler im Wildfly" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
