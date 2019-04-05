@@ -10,6 +10,10 @@
           <option name="url" value="ssh://gisnb@git01/repos/git/data/insight/insight-open-connector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ibfs.de:insight/sonarqube.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
