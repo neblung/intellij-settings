@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ICP-914 Ermittle Profil-Ausschnitte" />
-    <option name="defaultScopeName" value="ICP-914 Ermittle Profil-Ausschnitte" />
-    <option name="SEARCH_SCOPE" value="ICP-914 Ermittle Profil-Ausschnitte" />
+    <option name="customScope" value="ICP-903 Entkopple v3server von Datenbanken" />
+    <option name="defaultScopeName" value="ICP-903 Entkopple v3server von Datenbanken" />
+    <option name="SEARCH_SCOPE" value="ICP-903 Entkopple v3server von Datenbanken" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
