@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\download\src\main\java\gis\insight\download\control\ProfileMD5.java [download_main]'" />
-    <option name="defaultScopeName" value="File '...\download\src\main\java\gis\insight\download\control\ProfileMD5.java [download_main]'" />
-    <option name="SEARCH_SCOPE" value="File '...\download\src\main\java\gis\insight\download\control\ProfileMD5.java [download_main]'" />
+    <option name="customScope" value="Directory '...\insight-infrastructure [insight-infrastructure]'" />
+    <option name="defaultScopeName" value="Directory '...\insight-infrastructure [insight-infrastructure]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\insight-infrastructure [insight-infrastructure]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
