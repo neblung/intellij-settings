@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\download\src\main\java\gis\insight\download\control2\Factory.java [download_main]'" />
-    <option name="defaultScopeName" value="File '...\download\src\main\java\gis\insight\download\control2\Factory.java [download_main]'" />
-    <option name="SEARCH_SCOPE" value="File '...\download\src\main\java\gis\insight\download\control2\Factory.java [download_main]'" />
+    <option name="customScope" value="Directory '...\download [download]'" />
+    <option name="defaultScopeName" value="Directory '...\download [download]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\download [download]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
