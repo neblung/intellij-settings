@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="update local-env" description="upload script" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="&quot;C:\Program Files\Docker\Docker\resources\bin\docker-compose.exe&quot;" />
+      <option name="PARAMETERS" value="start upload" />
+      <option name="WORKING_DIRECTORY" value="D:/IdeaProjects/insight/docker-environments/local-env" />
+    </exec>
+  </tool>
+</toolSet>
