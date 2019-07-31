@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="ActivityTests" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="test/groovy/ds1/ActivityTests.groovy" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".tomeehome" type="PLAIN_TEXT" />
       <mapping pattern="keep" type="PLAIN_TEXT" />
