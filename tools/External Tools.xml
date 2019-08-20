@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="D:/IdeaProjects/insight/docker-environments/local-env" />
     </exec>
   </tool>
+  <tool name="zip" description="opens 7zip" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\7-Zip\7zFM.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/7-Zip" />
+    </exec>
+  </tool>
 </toolSet>

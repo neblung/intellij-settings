@@ -73,6 +73,9 @@
   <action id="Tool_External Tools_update local-env">
     <keyboard-shortcut first-keystroke="ctrl alt x" second-keystroke="u" />
   </action>
+  <action id="Tool_External Tools_zip">
+    <keyboard-shortcut first-keystroke="ctrl alt x" second-keystroke="z" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
