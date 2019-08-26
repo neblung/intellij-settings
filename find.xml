@@ -15,7 +15,7 @@
     <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.gradle</mask>
-    <mask>build.gradle*</mask>
     <mask>*.groovy</mask>
+    <mask>build.gradle*</mask>
   </component>
 </application>
