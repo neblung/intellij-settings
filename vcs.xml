@@ -26,6 +26,10 @@
           <option name="url" value="https://insight-dev.cloud.gis-systemhaus.de:8443/git/insight-dev-team/test-01.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://insight-dev.cloud.gis-systemhaus.de:8443" />
+          <option name="userName" value="insight" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
