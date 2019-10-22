@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="ICP-1063 V3 Suche. Beachte Rollen" />
+    <option name="defaultScopeName" value="ICP-1063 V3 Suche. Beachte Rollen" />
+    <option name="SEARCH_SCOPE" value="ICP-1063 V3 Suche. Beachte Rollen" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
