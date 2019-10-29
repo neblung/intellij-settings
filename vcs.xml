@@ -30,6 +30,10 @@
           <option name="url" value="http://insight-dev.cloud.gis-systemhaus.de:8443" />
           <option name="userName" value="insight" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ibfs.de/robur/configurations" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
