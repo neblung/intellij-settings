@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default" />
-    <option name="defaultScopeName" value="Default" />
-    <option name="SEARCH_SCOPE" value="Default" />
+    <option name="customScope" value="ICP-1237 Harmonisierung Groovy-Skripte" />
+    <option name="defaultScopeName" value="ICP-1237 Harmonisierung Groovy-Skripte" />
+    <option name="SEARCH_SCOPE" value="ICP-1237 Harmonisierung Groovy-Skripte" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
