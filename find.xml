@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ICP-1237 Harmonisierung Groovy-Skripte" />
-    <option name="defaultScopeName" value="ICP-1237 Harmonisierung Groovy-Skripte" />
-    <option name="SEARCH_SCOPE" value="ICP-1237 Harmonisierung Groovy-Skripte" />
+    <option name="customScope" value="Directory '...\insight-datasource-adapter [insight.insight-datasource-adapter]'" />
+    <option name="defaultScopeName" value="Directory '...\insight-datasource-adapter [insight.insight-datasource-adapter]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\insight-datasource-adapter [insight.insight-datasource-adapter]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
