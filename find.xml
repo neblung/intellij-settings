@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\insight-jsonrpc\src\main [insight.insight-jsonrpc.main]'" />
-    <option name="defaultScopeName" value="Directory '...\insight-jsonrpc\src\main [insight.insight-jsonrpc.main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\insight-jsonrpc\src\main [insight.insight-jsonrpc.main]'" />
+    <option name="customScope" value="Default" />
+    <option name="defaultScopeName" value="Default" />
+    <option name="SEARCH_SCOPE" value="Default" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
