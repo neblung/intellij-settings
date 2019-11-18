@@ -34,6 +34,10 @@
           <option name="url" value="https://git.ibfs.de/robur/configurations" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ibfs.de:rwe/configurations.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
