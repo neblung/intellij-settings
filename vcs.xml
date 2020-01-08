@@ -42,9 +42,13 @@
           <option name="url" value="git@git.ibfs.de:rwe/local-dev.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ibfs.de:insight/upload-libs-gradle-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\rwe" />
+    <option name="cloneParentDir" value="D:\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
